@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'PetMe64';
+  src: url('PetMe64.eot');
+  src: url('PetMe64.woff2') format('woff2'),
+       url('PetMe64.woff') format('woff'),
+       url('PetMe64.ttf') format('truetype'),
+       url('PetMe64.svg#PetMe64') format('svg'),
+       url('PetMe64.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Berkelium64';
+  src: url('Berkelium64.eot');
+  src: url('Berkelium64.woff2') format('woff2'),
+       url('Berkelium64.woff') format('woff'),
+       url('Berkelium64.ttf') format('truetype'),
+       url('Berkelium64.svg#Berkelium64') format('svg'),
+       url('Berkelium64.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Berkelium1541';
+  src: url('Berkelium1541.eot');
+  src: url('Berkelium1541.eot?#iefix') format('embedded-opentype'),
+    url('Berkelium1541.woff') format('woff'),
+    url('Berkelium1541.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
