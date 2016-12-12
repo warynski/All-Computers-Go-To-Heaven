@@ -4,7 +4,7 @@ The C64 GEOS concept project with small intro.
 
 # Preview
 
-https://warynski.github.io/All-Computers-Goes-To-Heaven/
+https://warynski.github.io/All-Computers-Go-To-Heaven/
 
 
 
